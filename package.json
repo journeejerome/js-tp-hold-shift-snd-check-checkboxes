@@ -1,15 +1,15 @@
 {
-  "name": "App",
+  "name": "burger-menu",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.mix.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielSchreurs/site-personnel.git"
+    "url": ""
   },
   "author": "Daniel Schreurs",
   "license": "ISC",
-  "homepage": "https://github.com/DanielSchreurs/site-personnel#readme",
+  "homepage": "https://github.com/hepl-dcc/JS-burger-menu",
   "devDependencies": {
     "babel-eslint": "^9.0.0",
     "browser-sync": "^2.26.7",
