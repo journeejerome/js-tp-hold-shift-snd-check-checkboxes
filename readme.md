@@ -1,5 +1,17 @@
 # Hold down shift 🤯
+> JS exercise given at HEPL
 
+* * *
+
+**js-tp-hold-shift-snd-check-checkboxes** is an educational project, which will be used for `JS` courses.
+
+**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+
+* * *
+
+> Lors de vos cours de *web*, vous allez découvrir le langage *JavaScript* et le mettre en pratique pour apprendre à rendre vos pages web interactives.  
+
+* * *
 Dans le cadre de cet exercice, nous vous demandons de faciliter la sélection des éléments de cette liste. 
 
 ![](./readme.gif)
