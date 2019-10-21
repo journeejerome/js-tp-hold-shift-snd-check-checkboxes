@@ -12,13 +12,19 @@
 > Lors de vos cours de *web*, vous allez découvrir le langage *JavaScript* et le mettre en pratique pour apprendre à rendre vos pages web interactives.  
 
 * * *
+
+## Énoncé 
+
 Dans le cadre de cet exercice, nous vous demandons de faciliter la sélection des éléments de cette liste. 
 
 ![](./readme.gif)
 
-
-
-## Énoncé 
+## Aides
 
 1. Si l’utilisateur clique sur une première checkbox et qu’il clique ensuite sur une seconde tout en maintenant la touche shift enfoncée il sélectionne tous les éléments qui suivent vers là-bas jusqu’à l’élément sur lequel il vient de cliquer. 
 2. Dans un deuxième temps, nous vous demandons de permettre la même chose quand il sélectionne les du bas vers le haut.
+
+
+## Source
+
+[JavaScript30](https://javascript30.com) de [Wes Bos](https://wesbos.com)
