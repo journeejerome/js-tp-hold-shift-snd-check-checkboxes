@@ -156,3 +156,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,sass,macos,windows,jetbrains
+/dist/js/script.min.js
+/mix-manifest.json
